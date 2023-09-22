@@ -28,9 +28,6 @@ from scipy import signal
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# The following two lines import stylesheets to format graphs. If you don't have any, comment them out
-if os.environ['LOGNAME'] == 'jakub' :
-    plt.style.use('/home/jakub/HESSENBOX-DA/Diverses/TU_Design.mplstyle')
 
 '''
 _______________________________________________________________________________
